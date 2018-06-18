@@ -1,0 +1,2 @@
+def BinaryGap(Number):
+  pass
